@@ -1,0 +1,30 @@
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.exe
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.deps.json
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.runtimeconfig.json
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.dll
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.pdb
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.csproj.AssemblyReference.cache
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.AssemblyInfoInputs.cache
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.AssemblyInfo.cs
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.csproj.CoreCompileInputs.cache
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.dll
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\refint\Практическая 5.dll
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.pdb
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.genruntimeconfig.cache
+C:\Users\X-AROK\source\repos\Практическая 5\Практическая 5\obj\Debug\net6.0\ref\Практическая 5.dll
+D:\C# Projects\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.exe
+D:\C# Projects\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.deps.json
+D:\C# Projects\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.runtimeconfig.json
+D:\C# Projects\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.dll
+D:\C# Projects\Практическая 5\Практическая 5\bin\Debug\net6.0\Практическая 5.pdb
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.csproj.AssemblyReference.cache
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.AssemblyInfoInputs.cache
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.AssemblyInfo.cs
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.csproj.CoreCompileInputs.cache
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.dll
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\refint\Практическая 5.dll
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.pdb
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\Практическая 5.genruntimeconfig.cache
+D:\C# Projects\Практическая 5\Практическая 5\obj\Debug\net6.0\ref\Практическая 5.dll
